@@ -1,4 +1,4 @@
-package day24_Methods;
+package InterviewQuestions;
 
 import sun.security.util.Password;
 
