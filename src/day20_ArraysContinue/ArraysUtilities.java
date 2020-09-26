@@ -6,9 +6,9 @@ public class ArraysUtilities {
 
     public static void main(String[] args) {
 
-       int [] arr = {1,2,3};
+        int [] arr = {1,2,3};
 
-       String a = Arrays.toString(arr);
+        String a = Arrays.toString(arr);
         System.out.println(a);// array must be converted to String before printing
 
 
@@ -19,6 +19,8 @@ public class ArraysUtilities {
         String b = Arrays.toString(nums);
         System.out.println(b);
         System.out.println(nums[0]); // double
+
+
 
     }
 }
