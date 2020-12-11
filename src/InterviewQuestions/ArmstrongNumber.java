@@ -1,6 +1,6 @@
 package InterviewQuestions;
 
-public class Swap {
+public class ArmstrongNumber {
 
 
     public static boolean ArmstrongNum(int num){
