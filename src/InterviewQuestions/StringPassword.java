@@ -58,6 +58,6 @@ if all requirements above are met, the method returns true, otherwise returns  f
 
     public static void main(String[] args) {
 
-        System.out.println(PassWordValidation("Papylya2")); // false
+        System.out.println(PassWordValidation("Papylya2#")); // true
     }
 }
